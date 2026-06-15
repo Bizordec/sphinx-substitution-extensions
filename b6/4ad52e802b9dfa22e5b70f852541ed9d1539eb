@@ -1,0 +1,23 @@
+src/sphinx_substitution_extensions/__init__.py
+  h_067a3b1eae82a2 39,42,44-51,63-64,112-113
+  s_6a86e180ad74fb::t_eeb602eceee1f8 52
+  s_6a86e180ad74fb::t_052a60993cfc3e 4,37-38
+  s_6a86e180ad74fb::t_f54fed2c935c63 41,43
+  s_6a86e180ad74fb::t_0f2c59bccb8da1 53-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "b64ad52e802b9dfa22e5b70f852541ed9d1539eb",
+  "prompts": {},
+  "sessions": {
+    "s_6a86e180ad74fb": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_134406118ffeC0EIgWWdCUh0eu",
+        "model": "Qwen/Qwen3.5-397B-A17B"
+      },
+      "human_author": "Ilya Boyazitov <kvabrat@gmail.com>"
+    }
+  }
+}
