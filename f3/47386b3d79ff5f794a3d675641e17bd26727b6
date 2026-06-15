@@ -1,0 +1,28 @@
+tests/test_substitution_extensions.py
+  s_31fe8546ec3f9d::t_e7a39cee6130e4 1389-1414,1416-1420,1422-1437,1450-1463,1465-1468,1470-1487
+  s_31fe8546ec3f9d::t_1167e018129e64 1415,1421,1438-1440,1442-1445,1447-1449,1464,1469
+  s_31fe8546ec3f9d::t_78a8f8656e930a 1441,1446
+src/sphinx_substitution_extensions/__init__.py
+  s_31fe8546ec3f9d::t_23a678bb6c590c 39-64
+  s_31fe8546ec3f9d::t_b3056d6daef362 111-112
+tests/test_flatten_substitutions.py
+  s_31fe8546ec3f9d::t_eee5a217b888f6 1-100
+newsfragments/+nested-substitutions.feature.rst
+  s_31fe8546ec3f9d::t_a5558a40b21fa4 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "f347386b3d79ff5f794a3d675641e17bd26727b6",
+  "prompts": {},
+  "sessions": {
+    "s_31fe8546ec3f9d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_135b9fc8bffeOJi5mY43S1V7Up",
+        "model": "Qwen/Qwen3.5-397B-A17B"
+      },
+      "human_author": "Илья Боязитов <boyazitov.i.e@sbertech.ru>"
+    }
+  }
+}
