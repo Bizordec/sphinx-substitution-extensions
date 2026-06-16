@@ -1,0 +1,14 @@
+src/sphinx_substitution_extensions/__init__.py
+  h_7273942ed86ee2 61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "49db6d0f2ccec814aa7e5de1f4fcba1e9ec47c27",
+  "prompts": {},
+  "humans": {
+    "h_7273942ed86ee2": {
+      "author": "Ilya Boyazitov <kvabrat@gmail.com>"
+    }
+  }
+}
