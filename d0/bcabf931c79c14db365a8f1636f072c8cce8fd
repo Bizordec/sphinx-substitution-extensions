@@ -1,0 +1,29 @@
+README.rst
+  s_3f9ad37f7b7bba::t_eaa2b6c31fe5c7 235-236
+  s_3f9ad37f7b7bba::t_18d3ab60ce90db 312-313
+  s_3f9ad37f7b7bba::t_b5088b9328e65e 244-245
+  s_3f9ad37f7b7bba::t_f4c471572e1d45 267-268
+  s_3f9ad37f7b7bba::t_0450acd4b67896 288-289
+  s_3f9ad37f7b7bba::t_32add2014d5275 237-243,246-266,269-287,290-311,314-335
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "d0bcabf931c79c14db365a8f1636f072c8cce8fd",
+  "prompts": {},
+  "humans": {
+    "h_7273942ed86ee2": {
+      "author": "Ilya Boyazitov <kvabrat@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3f9ad37f7b7bba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13437b990ffexBXaXYjNE53DJo",
+        "model": "Qwen/Qwen3.5-397B-A17B"
+      },
+      "human_author": "Ilya Boyazitov <kvabrat@gmail.com>"
+    }
+  }
+}
