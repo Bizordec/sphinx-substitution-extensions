@@ -1,0 +1,43 @@
+src/sphinx_substitution_extensions/__init__.py
+  s_3f9ad37f7b7bba::t_3166e016e34dbf 120
+  s_3f9ad37f7b7bba::t_fb66522f5ee1fc 25
+  s_3f9ad37f7b7bba::t_d01ddc22db9ff5 52-55,66-67
+  s_3f9ad37f7b7bba::t_19fa9da49e1be4 64
+  s_3f9ad37f7b7bba::t_de04956c655981 79-83,85-106,109
+  h_7273942ed86ee2 48-49
+  s_3f9ad37f7b7bba::t_64a45ff570abdb 61,69
+  s_3f9ad37f7b7bba::t_a6bd8b88ac92e0 50-51,56-60,62-63,65,68,70-71,84,108
+tests/test_substitution_extensions.py
+  h_7273942ed86ee2 2106,2163
+  s_3f9ad37f7b7bba::t_3cc5f3d6d8bf25 8
+  s_3f9ad37f7b7bba::t_ed416c41a3c1ee 2125-2130
+  s_3f9ad37f7b7bba::t_f30a41d98f5f7a 2182-2187
+  s_3f9ad37f7b7bba::t_620eac9739d6e2 2152
+  s_3f9ad37f7b7bba::t_3e48f8ba1884c9 2211
+  s_3f9ad37f7b7bba::t_d53d0eb8655170 2100-2105,2107-2124,2131-2151,2153-2162,2164-2181,2188-2210,2212-2215
+  s_3f9ad37f7b7bba::t_3040e7e0c73dc0 9
+README.rst
+  s_3f9ad37f7b7bba::t_304a44b6a53f2a 241
+  h_7273942ed86ee2 240
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "a58ee0bc65b889d6bb1537eac84d2daff6ad2a82",
+  "prompts": {},
+  "humans": {
+    "h_7273942ed86ee2": {
+      "author": "Ilya Boyazitov <kvabrat@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3f9ad37f7b7bba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13437b990ffexBXaXYjNE53DJo",
+        "model": "Qwen/Qwen3.5-397B-A17B"
+      },
+      "human_author": "Ilya Boyazitov <kvabrat@gmail.com>"
+    }
+  }
+}
