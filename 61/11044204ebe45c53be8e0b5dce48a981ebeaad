@@ -1,0 +1,27 @@
+tests/test_substitution_extensions.py
+  s_3f9ad37f7b7bba::t_14ea0e6491c156 1772-1777
+  h_7273942ed86ee2 2038
+  s_3f9ad37f7b7bba::t_1f578c68691436 1612-1726,1734-1771,1778-1801,1805-2037,2039-2096
+  s_3f9ad37f7b7bba::t_e2be3744d54ca9 1727-1733
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "6111044204ebe45c53be8e0b5dce48a981ebeaad",
+  "prompts": {},
+  "humans": {
+    "h_7273942ed86ee2": {
+      "author": "Ilya Boyazitov <kvabrat@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3f9ad37f7b7bba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13437b990ffexBXaXYjNE53DJo",
+        "model": "Qwen/Qwen3.5-397B-A17B"
+      },
+      "human_author": "Ilya Boyazitov <kvabrat@gmail.com>"
+    }
+  }
+}
